@@ -3,4 +3,4 @@
 Here you can find a curated set of resources, repositories and events about R for urbanists, created and maintained by the Department of Urbanism at TU Delft.
 
 Find out more:
-https://rbanism.github.io/Rbanism/ 
+https://rbanism.org
